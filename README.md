@@ -56,6 +56,19 @@ The system handles various box conditions through automated sorting logic. The f
 | **Waste Bin** | Light / Yellow / Damaged | Divert to Waste | <img src="image/Light_Yellow_Damaged_1.jpg" width="100"> | <img src="image/Light_Yellow_Damaged_2.jpg" width="100"> |
 | **Waste Bin** | Lighter than standard / Orange / Good | Divert to Waste | <img src="image/Lighter_than_standard._Orange_Good_1.jpg" width="100"> | <img src="image/Lighter_than_standard._Orange_Good_2.jpg" width="100"> |
 
+---
+
+## 🎥 Video Demonstrations
+Here are the functional demonstrations of the system handling specific object profiles:
+
+| Scenario | Video Preview |
+| :--- | :--- |
+| **Heavy / Green / Good** | [![Watch Demo](https://img.youtube.com/vi/UHgzIAKm8qw/0.jpg)](https://youtube.com/shorts/UHgzIAKm8qw?si=ES7oh83RYlg3uLmu) |
+| **Light / Green / Good** | [![Watch Demo](https://img.youtube.com/vi/1fzcsveyLl0/0.jpg)](https://youtube.com/shorts/1fzcsveyLl0?si=8adTQQ5zmNhb3maO) |
+| **Heavy / Orange / Good** | [![Watch Demo](https://img.youtube.com/vi/kPAVWTvCTjU/0.jpg)](https://youtube.com/shorts/kPAVWTvCTjU?si=Cp9BIejqQ54YgRTj) |
+| **Heavy / Yellow / Good** | [![Watch Demo](https://img.youtube.com/vi/N8eLzQ2nVcE/0.jpg)](https://youtube.com/shorts/N8eLzQ2nVcE?si=wmqsJfjiiDeWdzyD) |
+| **Light / Yellow / Damaged** | [![Watch Demo](https://img.youtube.com/vi/5rDw7eMt_3o/0.jpg)](https://youtube.com/shorts/5rDw7eMt_3o?si=TnCF145Di02bW9zB) |
+
 ## 🛠️ Troubleshooting
 During development, we encountered the following challenges:
 
